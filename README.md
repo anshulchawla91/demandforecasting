@@ -1,4 +1,4 @@
-# demandforecasting
+# demandforecasting -- univariate
 
 Forecasting Case Study
 
